@@ -1,0 +1,11 @@
+{
+  "name": "arbitage-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "ethers": "^5.7.2"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
